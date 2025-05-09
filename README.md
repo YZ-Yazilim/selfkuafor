@@ -57,9 +57,8 @@ Merhaba! Bu dokümanda Self Kuaför web uygulamasının kullanımıyla ilgili t�
 ![MüşteriYönetimi]
 (selfkuafor_readme_assets/image_4.png)
 - Yeni Müşteri Kayıt Ekranı
-![YeniMüşteriEkranı]
-(selfkuafor_readme_assets/Ekran görüntüsü 2025-05-09 165610.png)
-(selfkuafor_readme_assets/Ekran görüntüsü 2025-05-09 165638.png)s
+![YeniMüşteriEkranı](selfkuafor_readme_assets/eg_1.png)
+(selfkuafor_readme_assets/Ekran görüntüsü 2025-05-09 165638.png)
 
 - Müşteri Takibi
 ![MüşteriTakibi]
