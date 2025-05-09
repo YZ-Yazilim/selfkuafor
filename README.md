@@ -54,17 +54,15 @@ Merhaba! Bu dokümanda Self Kuaför web uygulamasının kullanımıyla ilgili t�
 - Yeni müşteri ekleyin: Ad, iletişim bilgileri, notlar.
 - Profil görüntüleme: Geçmiş randevular ve notlar.
 
-![MüşteriYönetimi]
-(selfkuafor_readme_assets/image_4.png)
+![MüşteriYönetimi](selfkuafor_readme_assets/image_4.png)
 - Yeni Müşteri Kayıt Ekranı
 ![YeniMüşteriEkranı](selfkuafor_readme_assets/eg_1.png)
 ![yenımusterıekranı](selfkuafor_readme_assets/eg_2.png)
 
 - Müşteri Takibi
-![MüşteriTakibi]
-(selfkuafor_readme_assets/Ekran görüntüsü 2025-05-09 170816.png)
-(selfkuafor_readme_assets/Ekran görüntüsü 2025-05-09 170859.png)
-(selfkuafor_readme_assets/Ekran görüntüsü 2025-05-09 170908.png)
+![MüşteriTakibi](selfkuafor_readme_assets/eg_3.png)
+![musterıtakıbı](selfkuafor_readme_assets/eg_4.png)
+![müsteritakibi](selfkuafor_readme_assets/eg_5.png)
 
 ### Randevu Yönetimi
 
