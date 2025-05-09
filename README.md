@@ -7,7 +7,6 @@ Merhaba! Bu dokümanda Self Kuaför web uygulamasının kullanımıyla ilgili t�
 ## İçindekiler
 
 - [Başlangıç](#başlangıç)
-- [Kurulum](#kurulum)
 - [Kullanıcı Girişi](#kullanıcı-girişi)
 - [Ana Sayfa ve Modüller](#ana-sayfa-ve-modüller)
   - [Müşteri Yönetimi](#müşteri-yönetimi)
@@ -32,14 +31,7 @@ Merhaba! Bu dokümanda Self Kuaför web uygulamasının kullanımıyla ilgili t�
 
 ---
 
-## Kurulum
 
-```bash
-git clone https://github.com/kullaniciadi/yardim-dokumanim.git
-cd yardim-dokumanim
-npm install
-npm start
-```
 
 ---
 
