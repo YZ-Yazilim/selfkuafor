@@ -58,14 +58,14 @@ Merhaba! Bu dokümanda Self Kuaför web uygulamasının kullanımıyla ilgili t�
 (selfkuafor_readme_assets/image_4.png)
 - Yeni Müşteri Kayıt Ekranı
 ![YeniMüşteriEkranı]
-(selfkuafor_readme_assets/Ekran görüntüsü 2025-05-09 165610)
-(selfkuafor_readme_assets/Ekran görüntüsü 2025-05-09 165638)
+(selfkuafor_readme_assets/Ekran görüntüsü 2025-05-09 165610.png)
+(selfkuafor_readme_assets/Ekran görüntüsü 2025-05-09 165638.png)s
 
 - Müşteri Takibi
 ![MüşteriTakibi]
-(selfkuafor_readme_assets/Ekran görüntüsü 2025-05-09 170816)
-(selfkuafor_readme_assets/Ekran görüntüsü 2025-05-09 170859)
-(selfkuafor_readme_assets/Ekran görüntüsü 2025-05-09 170908)
+(selfkuafor_readme_assets/Ekran görüntüsü 2025-05-09 170816.png)
+(selfkuafor_readme_assets/Ekran görüntüsü 2025-05-09 170859.png)
+(selfkuafor_readme_assets/Ekran görüntüsü 2025-05-09 170908.png)
 
 ### Randevu Yönetimi
 
@@ -115,7 +115,7 @@ Birim: Adet
 
 ![Stok Takibi](selfkuafor_readme_assets/image_12.png)
 ![yenistokkaydı]
-(selfkuafor_readme_assets/Ekran görüntüsü 2025-05-09 183048)
+(selfkuafor_readme_assets/Ekran görüntüsü 2025-05-09 183048.png)
 - Stok Miktarı Güncelleme
 Kullanım ya da satış sonrası sistem, stok miktarını otomatik düşürür.
 Ancak istenirse elle müdahale yapılabilir:
@@ -125,12 +125,12 @@ Giriş ya da çıkış tipi belirtilir.
 ![Stokguncelleme]
 (selfkuafor_readme_assets/image_13.png)
 ![Yenistokgrup]
-(selfkuafor_readme_assets/Ekran görüntüsü 2025-05-09 183104)
+(selfkuafor_readme_assets/Ekran görüntüsü 2025-05-09 183104.png)
 - Filtreleme ve Arama
 Ürün adına göre arama yapılabilir.
 “Stok miktarı azalan” gibi kriterlere göre sıralama yapılabilir.
 ![stokbilgileriniguncelle]
-(selfkuafor_readme_assets/Ekran görüntüsü 2025-05-09 183120)
+(selfkuafor_readme_assets/Ekran görüntüsü 2025-05-09 183120.png)
 
 ![Filtrelemevearama]
 (selfkuafor_readme_assets/image_14.png)
