@@ -1,6 +1,6 @@
-# Yardım Dokümanım
+# Self Kuaför - Yardım Dokümanı
 
-Merhaba! Bu dokümanda ürünümüzün kullanımıyla ilgili tüm önemli bilgilere ulaşabilirsiniz.
+Merhaba! Bu dokümanda Self Kuaför web uygulamasının kullanımıyla ilgili tüm önemli bilgilere ulaşabilirsiniz.
 
 ---
 
@@ -8,7 +8,15 @@ Merhaba! Bu dokümanda ürünümüzün kullanımıyla ilgili tüm önemli bilgil
 
 - [Başlangıç](#başlangıç)
 - [Kurulum](#kurulum)
-- [Kullanım](#kullanım)
+- [Kullanıcı Girişi](#kullanıcı-girişi)
+- [Ana Sayfa ve Modüller](#ana-sayfa-ve-modüller)
+  - [Müşteri Yönetimi](#müşteri-yönetimi)
+  - [Randevu Yönetimi](#randevu-yönetimi)
+  - [Hizmet ve Personel Yönetimi](#hizmet-ve-personel-yönetimi)
+  - [Fatura İşlemleri](#fatura-işlemleri)
+  - [Kasa Hareketleri](#kasa-hareketleri)
+  - [Stok Takibi](#stok-takibi)
+  - [Ayarlar ve Tanımlar](#ayarlar-ve-tanımlar)
 - [SSS (Sık Sorulan Sorular)](#sss-sık-sorulan-sorular)
 - [İletişim](#iletişim)
 
@@ -16,9 +24,11 @@ Merhaba! Bu dokümanda ürünümüzün kullanımıyla ilgili tüm önemli bilgil
 
 ## Başlangıç
 
-1. Ürünü indirin.
-2. Kurulum talimatlarını izleyin.
-3. İlk ayarları yapın.
+1. Web adresi: [https://app.selfkuafor.com/index.html](https://app.selfkuafor.com/index.html)
+2. Giriş ekranı üzerinden kullanıcı adı ve şifrenizle sisteme erişin.
+3. İlk ayarlarınızı yaparak kullanıma başlayın.
+
+![Giriş Ekranı](selfkuafor_readme_assets/image_1.png)
 
 ---
 
@@ -33,11 +43,62 @@ npm start
 
 ---
 
-## Kullanım
+## Kullanıcı Girişi
 
-- Uygulamayı açın.
-- Ana menüden ilgili modülü seçin.
-- İşlemlerinizi kolayca gerçekleştirin.
+- Kayıtlı kullanıcılar giriş yapabilir.
+- Şifresini unutanlar "Şifremi Unuttum" seçeneğiyle şifre sıfırlayabilir.
+
+---
+
+## Ana Sayfa ve Modüller
+
+### Müşteri Yönetimi
+
+- Yeni müşteri ekleyin: Ad, iletişim bilgileri, notlar.
+- Profil görüntüleme: Geçmiş randevular ve notlar.
+
+### Randevu Yönetimi
+
+- Yeni randevu oluşturun
+- Mevcut randevuları düzenleyin/iptal edin
+- Takvim görünümü: Günlük, haftalık, aylık
+
+![Randevu Takvimi](selfkuafor_readme_assets/image_2.png)
+
+### Hizmet ve Personel Yönetimi
+
+- Hizmet tanımlayın: Ad, fiyat, açıklama
+- Güncelleme/Silme: Süre ve fiyat değişikliği
+- Personel tanımlayın (Ayrıntılar "Ayarlar" bölümünde)
+
+### Fatura İşlemleri
+
+- Fatura oluşturun: Hizmet detayları, müşteri bilgisi, ödeme türü
+- Fatura geçmişi: Filtreleme ve yazdırma seçenekleri
+
+![Fatura](selfkuafor_readme_assets/image_3.png)
+
+### Kasa Hareketleri
+
+- Gelir/Gider işlemleri: Tarih, açıklama, tutar, ödeme türü
+- Kategorilerle sınıflandırma: Örn. "Hizmet", "Ürün Satışı"
+
+### Stok Takibi
+
+- Ürün ekleme: Ad, marka, miktar, satış fiyatı, birim
+- Stok güncelleme: Elle ya da otomatik
+- Filtreleme/arama: Ad, azalan stok miktarı
+
+![Stok Takibi](selfkuafor_readme_assets/image_4.png)
+
+### Ayarlar ve Tanımlar
+
+- Kullanıcı tanımlama: Ad, yetki seviyesi
+- Kasa kartı tanımlama: Örn. “POS Kasası”
+- Ödeme tipi tanımı: Nakit, kredi kartı, havale vb.
+- Açıklama ve özel kod tanımları
+
+![Ayarlar](selfkuafor_readme_assets/image_5.png)
 
 ---
 
