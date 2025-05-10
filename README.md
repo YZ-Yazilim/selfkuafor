@@ -16,7 +16,7 @@ Merhaba! Bu dokümanda Self Kuaför web uygulamasının kullanımıyla ilgili t�
   - [Kasa Hareketleri](#kasa-hareketleri)
   - [Stok Takibi](#stok-takibi)
   - [Ayarlar ve Tanımlar](#ayarlar-ve-tanımlar)
-- [İletişim](#iletişim)
+  - [İletişim](#iletişim)
 
 ---
 
@@ -65,6 +65,7 @@ Merhaba! Bu dokümanda Self Kuaför web uygulamasının kullanımıyla ilgili t�
 ![yenımusterıekranı](selfkuafor_readme_assets/eg_2.png)
 
 - Müşteri Takibi
+  - Müşteri takibi, bir işletmenin müşterilerle satış sonrası etkileşimlerini düzenli ve stratejik bir şekilde yönetmesidir. Amacı, müşteri memnuniyetini artırmak, ilişkileri güçlendirmek ve uzun vadeli sadakat oluşturmaktır.
 ![MüşteriTakibi](selfkuafor_readme_assets/eg_3.png)
 ![musterıtakıbı](selfkuafor_readme_assets/eg_4.png)
 ![müsteritakibi](selfkuafor_readme_assets/eg_5.png)
@@ -73,10 +74,16 @@ Merhaba! Bu dokümanda Self Kuaför web uygulamasının kullanımıyla ilgili t�
 
 - Yeni randevu oluşturun
 Yeni Randevu Oluşturma(Randevu Listesi): Kullanıcılar, tarih ve saat seçerek yeni randevular oluşturabilirler.
+1. "Randevular" sekmesine girin.
+2. Takvimde ilgili tarihi seçin.
+3. Açılan pencerede müşteri, hizmet, personel ve saat bilgilerini girin.
+4. "Kaydet" ile randevuyu oluşturun.
 Randevu Düzenleme(Randevu Listesi): Mevcut randevular, ihtiyaçlara göre düzenlenebilir veya iptal edilebilir.
 - Mevcut randevuları düzenleyin/iptal edin
 Randevu Düzenleme(Randevu Listesi): Mevcut randevular, ihtiyaçlara göre düzenlenebilir veya iptal edilebilir.
+- Mevcut bir randevunun üzerine tıklayarak tarih, saat veya müşteri bilgilerini değiştirebilir ya da randevuyu iptal edebilirsiniz.
 - Takvim görünümü: Günlük, haftalık, aylık
+- ⚠️ **Not** Randevular çakışmalara karşı sistem tarafından otomatik kontrol edilir.
 
 ![RandevuTakvimi](selfkuafor_readme_assets/image_5.png)
 ![randevutakvımı](selfkuafor_readme_assets/image_6.png)
@@ -85,6 +92,7 @@ Randevu Düzenleme(Randevu Listesi): Mevcut randevular, ihtiyaçlara göre düze
 ### Hizmet ve Personel Yönetimi
 
 - Hizmet tanımlanabilir ve yeni hizmet eklenebilir.
+- Yeni hizmet ekleme, güncelleme ve silme işlemleri kolayca yapılabilir.
 - Yeni Hizmet Ekleme: Girilmesi gereken bilgiler;
 Hizmet Adı (Örn: Saç Kesimi, Sakal Kesimi, Manikür, Cilt Bakımı)
 Fiyat
@@ -94,7 +102,11 @@ Tanımlanmış hizmetler daha sonra fiyat güncellemesi, süre değişikliği ve
 
 
 ### Fatura İşlemleri
-
+- Faturalandırma sürecini dijitalleştirerek hızlı işlem yapılmasını sağlar. Müşteri bazlı fatura takibi yapılabilir.
+1. Randevu tamamlandıktan sonra ödeme ekranına geçin.
+2. Alınan hizmet(ler) otomatik olarak faturaya eklenir.
+3. Ödeme türü seçilir (Nakit, Kart, Online vb.).
+4. "Fatura Oluştur" butonuna tıklanır.
 - Fatura Bilgileri:
 Fatura No 
 Müşteri Adı
@@ -132,6 +144,7 @@ Tarih, hizmet, personel bazlı filtreleme yapılabilir.
 ### Stok Takibi
 
 - Stoklar modülü, salonunuzda kullandığınız veya satışa sunduğunuz ürünlerin giriş-çıkışlarını ve miktarlarını takip etmenizi sağlar. Envanterin düzenli takibi sayesinde eksik ürünler zamanında tespit edilir ve maliyet kontrolü sağlanır.
+- ⚠️ **Not** Stok miktarı güncelleme, doğru stok seviyelerinin korunması için kritik bir işlemdir. Fiziksel sayımlar ve sistemdeki verilerin karşılaştırılması yoluyla yapılır.
 
 - Ürün Ekleme
 Yeni bir ürün sisteme eklenirken aşağıdaki bilgiler girilmelidir:
@@ -153,6 +166,7 @@ Giriş ya da çıkış tipi belirtilir.
 ![stokguncellemeyenikayıt](selfkuafor_readme_assets/eg_7.png)
 
 - Filtreleme ve Arama
+- **✅**Ürünlerinizi Kolayca Bulun!
 Ürün adına göre arama yapılabilir.
 “Stok miktarı azalan” gibi kriterlere göre sıralama yapılabilir.
 ![Filtrelemevearama](selfkuafor_readme_assets/image_14.png)
