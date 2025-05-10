@@ -68,9 +68,9 @@ Merhaba! Bu dokümanda Self Kuaför web uygulamasının kullanımıyla ilgili t�
 
 - Yeni randevu oluşturun
 Yeni Randevu Oluşturma(Randevu Listesi): Kullanıcılar, tarih ve saat seçerek yeni randevular oluşturabilirler.
-Randevu Düzenleme(Randevu Listesi):: Mevcut randevular, ihtiyaçlara göre düzenlenebilir veya iptal edilebilir.
+Randevu Düzenleme(Randevu Listesi): Mevcut randevular, ihtiyaçlara göre düzenlenebilir veya iptal edilebilir.
 - Mevcut randevuları düzenleyin/iptal edin
-Randevu Düzenleme(Randevu Listesi):: Mevcut randevular, ihtiyaçlara göre düzenlenebilir veya iptal edilebilir.
+Randevu Düzenleme(Randevu Listesi): Mevcut randevular, ihtiyaçlara göre düzenlenebilir veya iptal edilebilir.
 - Takvim görünümü: Günlük, haftalık, aylık
 
 ![RandevuTakvimi](selfkuafor_readme_assets/image_5.png)
@@ -243,9 +243,9 @@ Satış temsilcisi tanımlama ekranı.
 
 ## İletişim
 
-- E-posta: destek@ornek.com
-- Telefon: +90 555 555 55 55
-- Web: [https://ornek.com](https://ornek.com)
+- E-posta: info@softmedyazilim.com
+- Telefon: 0850 532 5920
+- Web: [https://softmedyazilim.com/](https://softmedyazilim.com/)
 
 ---
 
