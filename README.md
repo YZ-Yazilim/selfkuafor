@@ -1,4 +1,4 @@
-# [Softmed İstekler](http://istek.softmedyazilim.com/)
+# [Aradığımı Bulamadım](http://istek.softmedyazilim.com/)
 
 # Self Kuaför - Yardım Dokümanı
 
