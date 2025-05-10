@@ -150,8 +150,7 @@ Giriş ya da çıkış tipi belirtilir.
 - Filtreleme ve Arama
 Ürün adına göre arama yapılabilir.
 “Stok miktarı azalan” gibi kriterlere göre sıralama yapılabilir.
-![Filtrelemevearama]
-(selfkuafor_readme_assets/image_14.png)
+![Filtrelemevearama](selfkuafor_readme_assets/image_14.png)
 ![Yenistokgrup](selfkuafor_readme_assets/eg_8.png)
 
 ### Raporlama ve Dışa Aktarma
@@ -221,25 +220,9 @@ Satış temsilcisi tanımlama ekranı.
 
 
 
-
-
-
-
-
-
 ###
 
----
 
-## SSS (Sık Sorulan Sorular)
-
-**Soru:** X özelliği nasıl çalışır?  
-**Cevap:** Menüden X sekmesine giderek kullanabilirsiniz.
-
-**Soru:** Destek ekibine nasıl ulaşırım?  
-**Cevap:** Aşağıdaki iletişim bölümünden bize ulaşabilirsiniz.
-
----
 
 ## İletişim
 
