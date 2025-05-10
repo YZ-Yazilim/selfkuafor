@@ -1,4 +1,6 @@
+<div align="right">
 # [Softmed İstekler](http://istek.softmedyazilim.com/)
+</div>
 
 # Self Kuaför - Yardım Dokümanı
 
