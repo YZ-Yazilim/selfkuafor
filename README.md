@@ -167,13 +167,17 @@ Giriş ya da çıkış tipi belirtilir.
 
 - Filtreleme ve Arama
 - **✅**Ürünlerinizi Kolayca Bulun!
-Ürün adına göre arama yapılabilir.
+- Ürün adına göre arama yapılabilir.
+  - "Stok Yönetimini Kolayca Yapın"
+
+Stoklarınızı izlemek hiç bu kadar kolay olmamıştı! Sipariş verirken, hangi ürünlerin stokta olduğunu ve hangilerinin tükenmek üzere olduğunu anlık olarak görebilir, uygun ürünleri seçebilirsiniz. Ayrıca, sipariş geçmişinizi ve stok durumunuzu hızlıca kontrol edebilirsiniz.
 “Stok miktarı azalan” gibi kriterlere göre sıralama yapılabilir.
 ![Filtrelemevearama](selfkuafor_readme_assets/image_14.png)
 ![Yenistokgrup](selfkuafor_readme_assets/eg_8.png)
 
 ### Raporlama ve Dışa Aktarma
 
+- "İşletmenizin Performansını Kolayca İzleyin ve Paylaşın"
 - Belirli bir tarih aralığında personellerin yaptığı satış hareketleri raporlanabilir.
 ![raporlamavedışaaktarma](selfkuafor_readme_assets/image_15.png)
 
