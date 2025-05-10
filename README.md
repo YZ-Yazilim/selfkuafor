@@ -52,11 +52,15 @@ Merhaba! Bu dokümanda Self Kuaför web uygulamasının kullanımıyla ilgili t�
 
 - Yeni müşteri ekleyin: Ad, iletişim bilgileri, notlar.
 - Profil görüntüleme: Geçmiş randevular ve notlar.
-💡 **İpucu:** Müşteri adında arama yaparken büyük/küçük harf duyarlılığı yoktur.
-💡 **İpucu** Müşteri adına göre arama yaparak geçmişte eklenmiş kayıtlara hızla ulaşabilirsiniz.
+- 💡 **İpucu:** Müşteri adında arama yaparken büyük/küçük harf duyarlılığı yoktur.
+- 💡 **İpucu** Müşteri adına göre arama yaparak geçmişte eklenmiş kayıtlara hızla ulaşabilirsiniz.
 
 ![MüşteriYönetimi](selfkuafor_readme_assets/image_4.png)
 - Yeni Müşteri Kayıt Ekranı
+1. Ana menüden "Müşteriler" sekmesine tıklayın.
+2. "Yeni Müşteri" butonuna tıklayın.
+3. Açılan formda Ad, Soyad, Telefon, E-posta gibi bilgileri doldurun.
+4. Kaydet butonuna tıklayarak müşteriyi ekleyin.
 ![YeniMüşteriEkranı](selfkuafor_readme_assets/eg_1.png)
 ![yenımusterıekranı](selfkuafor_readme_assets/eg_2.png)
 
