@@ -243,7 +243,7 @@ Satış temsilcisi tanımlama ekranı.
 
 ---
 
-## İletişim
+### İletişim
 
 - E-posta: info@softmedyazilim.com
 - Telefon: 0850 532 5920
