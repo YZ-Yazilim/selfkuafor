@@ -27,7 +27,7 @@ Merhaba! Bu dokümanda Self Kuaför web uygulamasının kullanımıyla ilgili t�
 
 ## Başlangıç
 
-1. Web adresi: [https://app.selfkuafor.com/index.html](https://app.selfkuafor.com/index.html)
+1. Web adresi: [https://app.selfkuafor.com/index.html](https://app.selfkuafor.com)
 2. Giriş ekranı üzerinden kullanıcı adı ve şifrenizle sisteme erişin.
 3. İlk ayarlarınızı yaparak kullanıma başlayın.
 
