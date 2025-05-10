@@ -1,3 +1,5 @@
+# [Softmed İstekler](http://istek.softmedyazilim.com/)
+
 # Self Kuaför - Yardım Dokümanı
 
 Merhaba! Bu dokümanda Self Kuaför web uygulamasının kullanımıyla ilgili tüm önemli bilgilere ulaşabilirsiniz.
