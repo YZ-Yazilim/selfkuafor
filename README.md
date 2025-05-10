@@ -16,7 +16,7 @@ Merhaba! Bu dokümanda Self Kuaför web uygulamasının kullanımıyla ilgili t�
   - [Kasa Hareketleri](#kasa-hareketleri)
   - [Stok Takibi](#stok-takibi)
   - [Ayarlar ve Tanımlar](#ayarlar-ve-tanımlar)
-  - [İletişim](#iletişim)
+  - [İletişim](#İletişim)
 
 ---
 
@@ -236,10 +236,6 @@ Faturalarda gruplama, özel raporlama veya ayrıştırma yapmak istediğiniz dur
 Satış temsilcisi tanımlama ekranı.
 ![Faturaözelkodtanımlama](selfkuafor_readme_assets/image_20.png)
 ![Faturaözelkodtanımlama1](selfkuafor_readme_assets/eg_13.png)
-
-
-
-###
 
 ---
 
