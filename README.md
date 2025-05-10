@@ -16,7 +16,6 @@ Merhaba! Bu dokümanda Self Kuaför web uygulamasının kullanımıyla ilgili t�
   - [Kasa Hareketleri](#kasa-hareketleri)
   - [Stok Takibi](#stok-takibi)
   - [Ayarlar ve Tanımlar](#ayarlar-ve-tanımlar)
-- [SSS (Sık Sorulan Sorular)](#sss-sık-sorulan-sorular)
 - [İletişim](#iletişim)
 
 ---
@@ -53,6 +52,8 @@ Merhaba! Bu dokümanda Self Kuaför web uygulamasının kullanımıyla ilgili t�
 
 - Yeni müşteri ekleyin: Ad, iletişim bilgileri, notlar.
 - Profil görüntüleme: Geçmiş randevular ve notlar.
+💡 **İpucu:** Müşteri adında arama yaparken büyük/küçük harf duyarlılığı yoktur.
+💡 **İpucu** Müşteri adına göre arama yaparak geçmişte eklenmiş kayıtlara hızla ulaşabilirsiniz.
 
 ![MüşteriYönetimi](selfkuafor_readme_assets/image_4.png)
 - Yeni Müşteri Kayıt Ekranı
@@ -222,7 +223,7 @@ Satış temsilcisi tanımlama ekranı.
 
 ###
 
-
+---
 
 ## İletişim
 
