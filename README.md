@@ -312,10 +312,8 @@ Serbest meslek erbabıysanız (örneğin bağımsız çalışan kuaförler, maky
 
 ### Kontör
 - 💳 Kontör – Esnek ve Kullanışlı Ek Hizmetler
-Self Kuaför'de ihtiyacınıza göre esnek kontör ve SMS paketleri satın alabilirsiniz. Bu sistem sayesinde;
+Self Kuaför e-Fatura ve e-Smm gönderimleriniz için kullanababileceğiniz kontör paketleri.
 
-  - Müşterilere SMS Gönderimi: Randevu hatırlatmaları, kampanyalar veya özel gün mesajları gibi bildirimler gönderebilirsiniz.
-  - SMS paketleri ve ekstra personel ekleme hizmetleri, paketinize göre ayrıca tanımlanabilir ve ihtiyaç anında artırılabilir.  
 
 ![Faturaözelkodtanımlama1](selfkuafor_readme_assets/eg_15.png)
 ![Faturaözelkodtanımlama1](selfkuafor_readme_assets/eg_16.png)
