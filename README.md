@@ -247,6 +247,110 @@ Satış temsilcisi tanımlama ekranı.
 ![Faturaözelkodtanımlama1](selfkuafor_readme_assets/eg_13.png)
 
 ---
+### Paketler
+
+- 🎁 Paketler – İhtiyacınıza Uygun Çözümler
+Self Kuaför, farklı işletme ihtiyaçlarına uygun olarak çeşitli üyelik paketleri sunar. Her paket, sunduğu hizmet ve personel kapasitesi bakımından farklılık gösterir. Paketler, salonunuzun büyüklüğüne ve ekibinize göre seçilebilir.
+
+- Paket Özellikleri:
+  - Salon Hesabı: Her paket bir ana salon hesabı ile gelir.
+
+  - Personel Ekleme: Paketinizin türüne göre belirli sayıda personel ekleme hakkı sunar.
+
+  - Randevu Sistemi: Sınırsız randevu alma ve planlama imkanı sağlar.
+
+  - Gelişmiş Raporlama: İşletme performansınızı takip edebileceğiniz detaylı raporlamalar içerir.
+
+  - Kasa Yönetimi: Gelir-gider takibi yapabileceğiniz bir finans yönetim sistemine sahiptir.
+
+  - Personel Yönetimi: Çalışanlarınızın performansını izleyebilir, görev dağılımlarını planlayabilirsiniz.
+
+  - Takvim Modülü: Günlük, haftalık ve aylık olarak hizmet ve personel takviminizi düzenleyebilirsiniz.
+
+  - Bildirim Sistemi: Randevular, kampanyalar veya hizmetler için hem size hem müşterinize bildirimler gönderilebilir.
+
+  - Kampanya Modülü: Müşterilerinize özel indirim ve kampanyalar tanımlayabilirsiniz.
+
+  - SMS Desteği: Talebe göre SMS hizmeti paketinize entegre edilebilir.
+- 🧾 e-Fatura ve e-SMM Aktivasyonu – Dijital Dönüşümünüzü Tamamlayın
+ - Salonunuzun dijitalleşme sürecinde e-Fatura ve e-SMM aktivasyonları önemli bir yer tutar. Self Kuaför platformu, bu işlemlerinizi sistem üzerinden kolayca yönetebilmenizi sağlar.
+
+- ✅ e-Fatura Aktivasyonu Nedir?
+e-Fatura, klasik kağıt fatura yerine dijital ortamda hazırlanan ve gönderilen resmi bir belgedir. GİB (Gelir İdaresi Başkanlığı) ile entegre çalışan bu sistem sayesinde:
+
+  - Müşterilerinize dijital ortamda fatura kesebilirsiniz.
+
+  - Kağıt, arşiv ve iş gücü maliyetlerinden tasarruf sağlarsınız.
+
+  - Muhasebe süreçlerinizi hızlandırır ve sadeleştirirsiniz.
+
+ - Nasıl Aktifleştirilir?
+
+  - GİB'e e-Fatura başvurusu yaptıktan sonra Self Kuaför panelinizden entegrasyon süreci başlatılır.
+
+  - Teknik destek ekibi gerekli yönlendirmeyi yapar.
+
+  - Entegrasyon tamamlandığında e-Fatura kesmeye başlayabilirsiniz.
+
+- ✅ e-SMM (e-Serbest Meslek Makbuzu) Aktivasyonu Nedir?
+Serbest meslek erbabıysanız (örneğin bağımsız çalışan kuaförler, makyaj sanatçıları vb.), müşterilerinize kestiğiniz makbuzların dijital ortamda oluşturulmasına e-SMM denir.
+
+ - Avantajları:
+
+  - Kâğıt makbuzlarla uğraşmazsınız.
+
+  - Resmi ve geçerli belge niteliği taşır.
+
+  - Dijital arşivleme sayesinde belge kaybı riski ortadan kalkar.
+  
+  
+![Faturaözelkodtanımlama1](selfkuafor_readme_assets/eg_14.png)
+
+- 💳 Kontör – Esnek ve Kullanışlı Ek Hizmetler
+Self Kuaför'de ihtiyacınıza göre esnek kontör ve SMS paketleri satın alabilirsiniz. Bu sistem sayesinde;
+
+  - Müşterilere SMS Gönderimi: Randevu hatırlatmaları, kampanyalar veya özel gün mesajları gibi bildirimler gönderebilirsiniz.
+  - SMS paketleri ve ekstra personel ekleme hizmetleri, paketinize göre ayrıca tanımlanabilir ve ihtiyaç anında artırılabilir.  
+
+![Faturaözelkodtanımlama1](selfkuafor_readme_assets/eg_15.png)
+![Faturaözelkodtanımlama1](selfkuafor_readme_assets/eg_16.png)
+
+  - ⚠️Paket ücreti ödenmeden yeni bir paket alımı yapılamaz!
+![Faturaözelkodtanımlama1](selfkuafor_readme_assets/eg_18.png) 
+
+- İşlemlerinize ve işlem geçmişlerinize kolayca ulaşabilirsiniz!
+![Faturaözelkodtanımlama1](selfkuafor_readme_assets/eg_17.png)
+- Satın almış olduğunuz paketleri görüntüleyebilirsiniz ve ödeme yapabilirsiniz!
+![Faturaözelkodtanımlama1](selfkuafor_readme_assets/eg_19.png)
+![Faturaözelkodtanımlama1](selfkuafor_readme_assets/eg_20.png)
+
+- ✅Ödeme Kolaylığı
+💳 iyzico Entegrasyonu – Güvenli ve Kolay Ödeme Alın
+Self Kuaför, salon sahiplerinin online ödeme almasını kolaylaştırmak için iyzico ile entegre çalışır. Bu sistem sayesinde müşterilerinizden güvenli ve hızlı bir şekilde ödeme alabilirsiniz.
+
+  - ✅ iyzico Nedir?
+iyzico, Türkiye'deki işletmelerin kartla ödeme alabilmesini sağlayan güvenli ve lisanslı bir ödeme altyapısıdır. PCI DSS sertifikalı altyapısıyla, kullanıcı verilerini korur ve hızlı işlem deneyimi sunar.
+
+  - 🔒 Neden iyzico ile Çalışmalısınız?
+Güvenli Ödeme Altyapısı: Tüm ödemeler 3D Secure ve PCI-DSS güvenlik standartlarına uygun şekilde gerçekleşir.
+
+  - Kredi Kartı ile Ödeme: Müşterileriniz randevu sırasında ya da sonrasında kredi/banka kartı ile ödeme yapabilir.
+
+  - Kolay Takip: Aldığınız ödemeler sistem üzerinden takip edilebilir.
+
+  - Tek Tıkla Ödeme: Müşteriler daha önce kayıtlı kartlarıyla hızlı ödeme gerçekleştirebilir.
+
+  -Mobil Uyumlu: Hem masaüstü hem mobil cihazlardan ödeme kolaylığı sağlar.
+
+![Faturaözelkodtanımlama1](selfkuafor_readme_assets/eg_21.png)
+
+
+
+   
+
+
+
+---
 
 ### İletişim
 
