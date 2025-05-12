@@ -22,6 +22,9 @@ Merhaba! Bu dokümanda Self Kuaför web uygulamasının kullanımıyla ilgili t�
   - [Kasa Hareketleri](#kasa-hareketleri)
   - [Stok Takibi](#stok-takibi)
   - [Ayarlar ve Tanımlar](#ayarlar-ve-tanımlar)
+  - [Paketler](#Paketler)
+  - [Kontör](#Kontör)
+  - [İşlemlerim](#İşlemlerim)
   - [İletişim](#İletişim)
 
 ---
@@ -307,6 +310,7 @@ Serbest meslek erbabıysanız (örneğin bağımsız çalışan kuaförler, maky
   
 ![Faturaözelkodtanımlama1](selfkuafor_readme_assets/eg_14.png)
 
+### Kontör
 - 💳 Kontör – Esnek ve Kullanışlı Ek Hizmetler
 Self Kuaför'de ihtiyacınıza göre esnek kontör ve SMS paketleri satın alabilirsiniz. Bu sistem sayesinde;
 
@@ -321,6 +325,8 @@ Self Kuaför'de ihtiyacınıza göre esnek kontör ve SMS paketleri satın alabi
 
 - İşlemlerinize ve işlem geçmişlerinize kolayca ulaşabilirsiniz!
 ![Faturaözelkodtanımlama1](selfkuafor_readme_assets/eg_17.png)
+
+### İşlemlerim
 - Satın almış olduğunuz paketleri görüntüleyebilirsiniz ve ödeme yapabilirsiniz!
 ![Faturaözelkodtanımlama1](selfkuafor_readme_assets/eg_19.png)
 ![Faturaözelkodtanımlama1](selfkuafor_readme_assets/eg_20.png)
