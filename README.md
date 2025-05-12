@@ -347,7 +347,7 @@ Güvenli Ödeme Altyapısı: Tüm ödemeler 3D Secure ve PCI-DSS güvenlik stand
 
   - Tek Tıkla Ödeme: Müşteriler daha önce kayıtlı kartlarıyla hızlı ödeme gerçekleştirebilir.
 
-  -Mobil Uyumlu: Hem masaüstü hem mobil cihazlardan ödeme kolaylığı sağlar.
+  - Mobil Uyumlu: Hem masaüstü hem mobil cihazlardan ödeme kolaylığı sağlar.
 
 ![Faturaözelkodtanımlama1](selfkuafor_readme_assets/eg_21.png)
 
