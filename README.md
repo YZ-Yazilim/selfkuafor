@@ -1,5 +1,5 @@
 <div align="right">
-Softmed İstekler: [https://istek.softmedyazilim.com/](https://istek.softmedyazilim.com)
+Softmed İstekler: (https://istek.softmedyazilim.com)
 </div>
 
 # Self Kuaför - Yardım Dokümanı
