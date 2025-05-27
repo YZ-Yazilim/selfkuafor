@@ -1,6 +1,6 @@
 <div align="right">
 
-# [Softmed İstekler](http://istek.softmedyazilim.com/)
+# [Softmed İstekler] [https://istek.softmedyazilim.com/](https://istek.softmedyazilim.com)
 
 </div>
 
